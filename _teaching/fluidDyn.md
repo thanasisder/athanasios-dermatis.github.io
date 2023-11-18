@@ -2,7 +2,7 @@
 title: "Fluid Physics and Dynamics"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/fluidDynII.md
+permalink: /teaching/fluidDyn.md
 venue: École Centrale Nantes, LHEEA"
 date: 2023-01-01
 location: "Nantes, France"
