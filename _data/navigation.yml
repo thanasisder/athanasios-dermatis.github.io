@@ -1,14 +1,12 @@
 # main links links
-main:
-  - title: "Background"
-    url: /talks/    
+main:  
+  - title: "CV"
+    url: /files/CV_Dermatis.pdf
     
   - title: "Publications"
     url: /publications/ #"https://scholar.google.com/citations?user=y7E9KmwAAAAJ&hl=en" 
 
   - title: "Teaching"
     url: /teaching/    
-        
-  - title: "CV"
-    url: /files/CV_Dermatis.pdf
+    
     
