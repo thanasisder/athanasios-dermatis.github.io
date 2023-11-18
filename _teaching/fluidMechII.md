@@ -8,4 +8,3 @@ date: 2022-01-01
 location: "Nantes, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
