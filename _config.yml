@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Nantes, France"
-  employer         :
+  employer         : "École Centrale Nantes"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=y7E9KmwAAAAJ"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Athanasios-Dermatis"
+  email            : "athanasios.dermatis@ec-nantes.fr"
+  researchgate     : "https://www.researchgate.net/profile/Athanasios-Dermatis"
   uri              :
   bitbucket        :
   codepen          :
