@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Athanasios Dermatis"
-  avatar           : "profile.png"
+  avatar           : "/images/Prof_Photo.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Nantes, France"
   employer         : "École Centrale Nantes"
