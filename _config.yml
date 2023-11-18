@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Athanasios Dermatis"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Athanasios Dermatis"
 description              : &description "personal description"
