@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: École Centrale Nantes, LHEEA"
-date: 2015-01-01
+date: 2023-01-01
 location: "Nantes, France"
 ---
 
