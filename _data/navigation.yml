@@ -4,7 +4,7 @@ main:
     url: /talks/    
     
   - title: "Publications"
-    url: "https://scholar.google.com/citations?user=y7E9KmwAAAAJ&hl=en" #/publications/
+    url: /publications/ #"https://scholar.google.com/citations?user=y7E9KmwAAAAJ&hl=en" 
 
   - title: "Teaching"
     url: /teaching/    
