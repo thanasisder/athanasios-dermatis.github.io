@@ -6,5 +6,5 @@ excerpt: 'Wave breaking is widely recognized as a very challenging phenomenon to
 date: 2022-7-11
 venue: 'Fluids'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Dermatis, A., Ntouras, D., Papadakis, G. (2022). &quot; Numerical Simulation of Irregular Breaking Waves Using a Coupled Artificial Compressibility Method. &quot; <i>Fluids</i>. 235(7).'
+citation: '<b>Dermatis, A.<b>, Ntouras, D., Papadakis, G. (2022). &quot; Numerical Simulation of Irregular Breaking Waves Using a Coupled Artificial Compressibility Method. &quot; <i>Fluids</i>. 235(7).'
 ---
