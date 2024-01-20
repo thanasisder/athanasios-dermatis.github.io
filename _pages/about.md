@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello,"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd year PhD student in École Centrale Nantes.
+I am a 2nd year PhD student in the LHEEA lab of École Centrale Nantes. I work on the stochastic prediction of extreme loads and motions of marine structures using equivalent design waves.
 
 Hello 2,
 ======
-I am a 2nd year PhD student in École Centrale Nantes.
 
