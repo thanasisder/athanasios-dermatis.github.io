@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd year PhD student in the LHEEA lab of École Centrale Nantes. I work on the stochastic prediction of extreme loads and motions of marine structures using equivalent design waves.
+I am a 2nd year PhD student in the LHEEA lab of École Centrale Nantes, working on the topic of the stochastic prediction of extreme loads and motions of marine structures using equivalent design waves.
 
-#Hello 2,
-#======
+I obtained my BSc and Msc in the National Technical University of Athens and my master thesis was the "Numerical modelling of regular and irregular breaking waves using a coupled artificial compressibility method".
+
+
+
+Hello 2,
+======
 
